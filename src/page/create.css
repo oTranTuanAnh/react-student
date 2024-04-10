@@ -1,0 +1,14 @@
+.form-create{
+    width: 30%;
+    margin: 100px auto;
+    background-color: darkgray;
+    align-items: center;
+    padding: 10px;
+}
+
+.form-create-input{
+    width: 100%;
+}
+.btn-save{
+    margin-top: 10px;
+}
